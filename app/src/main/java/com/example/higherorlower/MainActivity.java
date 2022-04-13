@@ -53,4 +53,3 @@ public class MainActivity extends AppCompatActivity {
             randomNumber = rand.nextInt(20) + 1;
         }
     }
-//    tescommitdsdsd
